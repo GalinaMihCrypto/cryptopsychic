@@ -1,0 +1,4 @@
+```text
+web3
+requests
+python-dotenv
